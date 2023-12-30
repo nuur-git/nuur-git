@@ -7,3 +7,11 @@ def add():
 
 
 add()
+
+
+def mul():
+    m = 4*5
+    print(m)
+
+
+mul()
